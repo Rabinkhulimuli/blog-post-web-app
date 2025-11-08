@@ -28,7 +28,7 @@ dist-ssr/
 # ============================================================
 # Ignore environment and configuration files
 .env.*
-!.env.example
+.env.example
 
 # ============================================================
 # Editor-specific files
